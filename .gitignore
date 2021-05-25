@@ -2,7 +2,7 @@ modelnet40_ply_hdf5_2048/*
 *.pth.tar
 
 
-*.py
+
 __pycache__/*
 */__pycache__/*
 
